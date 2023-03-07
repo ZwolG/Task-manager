@@ -1,0 +1,7 @@
+-----User Statistics-----
+Total tasks: 3
+User tasks ratio: 100.0
+Completed task ratio: 0.0
+Uncompleted ratio: 100.0
+Overdue user ratio: 0.0
+---------------------------
